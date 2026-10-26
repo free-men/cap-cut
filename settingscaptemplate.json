@@ -1,1 +1,16 @@
 
+{
+  "ads_enabled": true,
+  "app_id": "ca-app-pub-1155842578183539~5109597656",
+  "app_open_enabled": true,
+  "app_open_ad_unit_id": "ca-app-pub-1155842578183539/7427649558",
+  "banner_enabled": true,
+  "banner_ad_unit_id": "ca-app-pub-1155842578183539/4516017937",
+  "interstitial_enabled": true,
+  "interstitial_ad_unit_id": "ca-app-pub-1155842578183539/9556591620",
+  "interstitial_interval_ms": 30000,
+  "native_enabled": true,
+  "native_ad_unit_id": "ca-app-pub-1155842578183539/3265043269",
+  "rewarded_enabled": true,
+  "rewarded_ad_unit_id": "ca-app-pub-1155842578183539/9638879920"
+}
